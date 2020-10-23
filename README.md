@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi 👋, I am currently an 📚 Computer Science student at 🎓 [University Tunku Abdul Rahman](https://www.utar.edu.my/). I am going to graduate in 2022 😃.
+ 
+💪 You can visit the place I have been trained on:
+1. [Kaggle](https://www.kaggle.com/polarbearyap)
+2. [Codewars](https://www.codewars.com/users/polarbearyap)
+3. [Hackerrank](https://www.hackerrank.com/polarbearyap2)
 
-<!--
-**polarBearYap/polarBearYap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 You can reach me at:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning and working on deep neural networks and exploring TensorFlow. 
+- 🔭 I’m going to learn basics of Software Engineering soon.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him
+- 💬 Langauge spoke: English (Primary), Mandarin (Secondary), Bahasa Malaysia (Secondary)
+- ⚡ Fun fact: I love to watch old but classic cartoons like Regular Show, Ben 10 (not the latest one 😄), The Amazing World of Gumball, Adventure Time, and more.
