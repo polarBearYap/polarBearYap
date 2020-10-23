@@ -7,9 +7,13 @@ Hi 👋, I am currently an 📚 Computer Science student at 🎓 [University Tun
 
 <!--📫 You can reach me at:-->
 
-- 🌱 I’m currently learning and working on deep neural networks and exploring TensorFlow. 
-- 🔭 I’m going to learn basics of Software Engineering soon.
+🌱 I’m currently learning and working on deep neural networks and exploring TensorFlow. 
+
+🔭 I’m going to learn basics of Software Engineering soon.
 <!--- 📫 How to reach me: ...-->
-- 😄 Pronouns: He/Him
-- 💬 Langauge spoke: English (Primary), Mandarin (Secondary), Bahasa Malaysia (Secondary)
-- ⚡ Fun fact: I love to watch old but classic cartoons like Regular Show, Ben 10 (not the latest one 😄), The Amazing World of Gumball, Adventure Time, and more.
+
+😄 Pronouns: He/Him
+
+💬 Langauge spoke: English (Primary), Mandarin (Secondary), Bahasa Malaysia (Secondary)
+
+⚡ Fun fact: I love to watch old but classic cartoons like Regular Show, Ben 10 (not the latest one 😄), The Amazing World of Gumball, Adventure Time, and more.
