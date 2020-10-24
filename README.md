@@ -10,7 +10,12 @@ Hi 👋, I am currently an 📚 Computer Science student at 🎓 [University Tun
 🌱 I’m currently learning and working on deep neural networks and exploring TensorFlow. 
 
 🔭 I’m going to learn basics of Software Engineering soon.
-<!--- 📫 How to reach me: ...-->
+
+🎯 My personal goals:
+- Learn and apply Tensorflow in mahcine learning projects
+- Participate in data science competitions
+- Learn software enginerring principles
+- Learn and apply explainable AI/interpretable machine learning in application
 
 😄 Pronouns: He/Him
 
