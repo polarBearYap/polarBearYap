@@ -3,7 +3,8 @@ Hi 👋, I am currently an 📚 Computer Science student at 🎓 [University Tun
 💪 You can visit the place I have been trained on:
 1. [Kaggle](https://www.kaggle.com/polarbearyap)
 2. [Codewars](https://www.codewars.com/users/polarbearyap)
-3. [Hackerrank](https://www.hackerrank.com/polarbearyap2)
+3. [Hackerearth](https://www.hackerearth.com/@polarbearyap2)
+4. [Hackerrank](https://www.hackerrank.com/polarbearyap2)
 
 <!--📫 You can reach me at:-->
 
