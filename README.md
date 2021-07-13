@@ -21,6 +21,3 @@ Hi 👋, I am currently an 📚 Computer Science student at 🎓 [University Tun
 😄 Pronouns: He/Him
 
 💬 Langauge spoke: English (Primary), Mandarin (Secondary), Bahasa Malaysia (Secondary), French (Basics)
-
-⚡ Fun fact:
-- I play Minecraft and Don't Starve if I get too bored 😆.
