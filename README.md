@@ -5,7 +5,6 @@ Hi 👋, I am currently an 📚 Computer Science student at 🎓 [University Tun
 2. [Codewars](https://www.codewars.com/users/polarbearyap)
 3. [Hackerearth](https://www.hackerearth.com/@polarbearyap2)
 4. [Hackerrank](https://www.hackerrank.com/polarbearyap2)
-5. [Facebook](https://www.facebook.com/jhengkhinyap)
 
 <!--📫 You can reach me at:-->
 
