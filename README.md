@@ -8,7 +8,7 @@ Hi 👋, I am currently an 📚 Computer Science student at 🎓 [University Tun
 
 <!--📫 You can reach me at:-->
 
-🌱 I’m currently learning server-side application, internetworking principles, software engineering principles, and mobile application development. 
+🌱 I’m currently learning data science and internetworking principles. 
 
 🔭 I’m going to learn blockchain soon.
 
